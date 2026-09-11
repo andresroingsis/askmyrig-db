@@ -1,0 +1,5 @@
+bin/
+obj/
+*.dacpac
+*.log
+drift-*.sql
