@@ -3,7 +3,7 @@
   <Sdk Name="Microsoft.Build.Sql" Version="2.1" />
   <PropertyGroup>
     <Name>AskMyRig</Name>
-    <ProjectGuid>{6E6F5D62-6338-4234-B2CE-A7CA2C6F7E25}</ProjectGuid>
+    <ProjectGuid>{7B0EF69A-FD04-452D-B6FB-79D09339825D}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql170DatabaseSchemaProvider</DSP>
     <ModelCollation>1033, CI</ModelCollation>
     <QueryStoreCaptureMode>Auto</QueryStoreCaptureMode>
